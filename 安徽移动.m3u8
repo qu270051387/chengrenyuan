@@ -1,39 +1,39 @@
-#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz"
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV1
+# EXTM3U X-TVG-URL= "https:/gitee.com/takss/tv/raw/main/epg/erw.xml.gz"
+#EXTINF: 1 组标题 = TVG-name= "CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png"eg-url=https://giteee.com/takss/ream/erw.xml.gz",CCTV1
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV2
+#EXTINF: 1 组标题 = TVG-name= "CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png"eg-url=https://giteee.com/takss/ream/erw.xml.gz",CCTV2
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv2hd8m/index.m3u8
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV3
+#EXTINF: 1 组标题 = TVG-name= "CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png"ehtps:/giteee.com/takss/raw/main/rew.xmlgz",CCTV3
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/index.m3u8
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV4
+#EXTINF: 1 组标题 = TVG-name= "CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png"eg-url=https://giteee.com/takss/ream/erw.xml.gz",CCTV4
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv4sd/index.m3u8
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV5
+#EXTINF: 1 组标题 = TVG-name= "CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png"ehtps:/giteee.com/takss/raw/main/epg/erw.xml.gz",CCTV5
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd/index.m3u8
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV6
+#EXTINF: 1 组标题 = TVG-Name = CCTV6 TVG-Logo = https://epg.112114.xyz/logo/CCTV6.png"ehtps:/gitee.com/taksss/raw/main/epg/erw.xml.gz",CCTV6
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv6hd8m/index.m3u8
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV7
+#EXTINF: 1 组标题 = TVG-Name = CCTV7 TVG-Logo = https://epg.112114.xyz/logo/CCTV7.png"ehtps:/gitee.com/taksss/raw/main/epg/erw.xml.gz",CCTV7
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv7hd8m/index.m3u8
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV8
+#EXTINF: 1 组标题 = TVG-name= "CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png"ehtps:/giteee.com/takss/raw/main/epg/erw.xml.gz",CCTV8
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV9
+#EXTINF: 1 组标题 = TVG-name= "CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png"eg-url=https://giteee.com/takss/ream/erw.xml.gz",CCTV9
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv9hd4mc/index.m3u8
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV10
+#EXTINF: 1 组标题 = TVG-Name= "CCTV10" tvg-Logo="https://epg.112114.xyz/logo/CCTV10.png"ehtps:/gitee.com/taksss/ream/rem/erw.xml.gz",CCTV10
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-cctv10hd/index.m3u8
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV11
+#EXTINF: 1 组标题 = TVG-name= "CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png"ehtps:/gitee.com/takss/raw/main/rew.xml.gz",CCTV11
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV12
+#EXTINF: 1 组标题 = TVG-name= "CCTV12" TVG-Logo="https://epg.112114.xyz/logo/CCTV12.png"ehtps:/gitee.com/takss/raw/main/rew.xml.gz",CCTV12
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv12hd8m/index.m3u8
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV13
+#EXTINF: 1 组标题 = TVG-Name= "CCTV13" tvg-Logo="https://epg.112114.xyz/logo/CCTV13.png"ehtps:/gitee.com/takss/raw/main/rew.xml.gz",CCTV13
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv13xwhd8m/index.m3u8
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV14
+#EXTINF: 1 组标题 = TVG-name= "CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png"ehtps:/gitee.com/takss/raw/main/rew.xml.gz",CCTV14
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/index.m3u8
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV15
+# EXTINF: 1 组标题 = TVG-Name = CCTV15 TVG-Logo = https://epg.112114.xyz/logo/CCTV15.png"ehtps:/gitee.com/taksss/ream/re/erw.xml.gz",CCTV15
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4mc/index.m3u8
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV16
+#EXTINF: 1 组标题 = TVG-Name = CCTV16 TVG-Logo = https://epg.112114.xyz/logo/CCTV16.png"ehtps:/gitee.com/taksss/ream/re/erw.xml.gz",CCTV16
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV17
+#EXTINF: 1 组标题 = TVG-Name= "CCTV17" tvg-Logo="https://epg.112114.xyz/logo/CCTV17.png"ehtps:/gitee.com/takss/raw/main/rew.xml.gz",CCTV17
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv17hd4mc/index.m3u8
-#EXTINF:-1 group-title="央视移动" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV5+
+#EXTINF: 1 组标题 = CCTV5 + TVG-Logo = https://epg.11214.xyz/log/cTV5+.png"e.com/takss/ream/ream/erw.xml.gz",CCTV5+
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd8m/index.m3u8
 #EXTINF:-1 group-title="央视移动" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" epg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz",CCTV4K
 http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
