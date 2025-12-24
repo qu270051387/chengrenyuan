@@ -1,4 +1,4 @@
-# EXTM3U X-TVG-URL= "https:/gitee.com/takss/tv/raw/main/epg/erw.xml.gz"
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF: 1 组标题 = TVG-name= "CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png"eg-url=https://giteee.com/takss/ream/erw.xml.gz",CCTV1
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
 #EXTINF: 1 组标题 = TVG-name= "CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png"eg-url=https://giteee.com/takss/ream/erw.xml.gz",CCTV2
